@@ -8,9 +8,10 @@ namespace MadLibs.Models
     public string VerbPresentTense { get; set; }
     public string VerbPastTense { get; set; }
 
-    // public string PluralBodyPart { get; set; }
-    // public string Adjective { get; set; }
-    // public string PluralNoun2 { get; set; }
-    // public string Adjective2 { get; set; }
+    //computerz2 properties
+    public string PluralBodyPart { get; set; }
+    public string Adjective { get; set; }
+    public string PluralNoun2 { get; set; }
+    public string Adjective2 { get; set; }
   }
 }
